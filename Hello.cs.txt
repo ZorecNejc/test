@@ -1,0 +1,16 @@
+// Ime datoteke: Hello.cs
+public class Hello
+{
+   public static void Main()
+   {
+<<<<<<< HEAD
+	System.Console.WriteLine("Hello, World!");
+	System.Console.WriteLine("Hello, Local!");
+	System.Console.WriteLine("Hello, Local!");
+=======
+      System.Console.WriteLine("Hello, World!");
+      System.Console.WriteLine("Hello, GitHub!");
+      System.Console.WriteLine("Hello, Local!");
+>>>>>>> 855f9bf1c8a6e9c794fb60035baa10ded18c8050
+   }
+}
